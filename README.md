@@ -1,6 +1,6 @@
 # Project Flynn
 
-### A space and life aware personal A.I. assistant 
+### Location and lifeform aware personal A.I. assistant 
 
 #### Features
 
